@@ -164,5 +164,5 @@ MIT License — free to use for research, education, and portfolio purposes.
 
 ## 👤 Author
 
-**Abdul** — AI/ML Engineer  
+**Abdul Gani** — AI/ML Engineer  
 [GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
