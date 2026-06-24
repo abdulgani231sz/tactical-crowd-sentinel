@@ -1,0 +1,27 @@
+# ────────────────────────────────────────────────────
+#  Tactical Crowd Sentinel v2 — Python Requirements
+# ────────────────────────────────────────────────────
+
+# Core vision + AI
+ultralytics>=8.2.0        # YOLOv8  (includes ByteTrack internally)
+opencv-python>=4.9.0      # frame I/O, drawing, perspective transform
+numpy>=1.26.0             # arrays
+scipy>=1.12.0             # cdist for tracker cost matrix
+
+# Optional (Kalman filter — improves position smoothing)
+filterpy>=1.4.5
+
+# Optional (speed boost on RTX GPU)
+torch>=2.2.0              # already installed with ultralytics usually
+# torchvision, torchaudio  (match your CUDA version)
+
+# ────────────────────────────────────────────────────
+#  Quick install (CPU)
+# ────────────────────────────────────────────────────
+#   pip install ultralytics opencv-python scipy filterpy
+
+# ────────────────────────────────────────────────────
+#  RTX GPU install  (CUDA 12.x example)
+# ────────────────────────────────────────────────────
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+#   pip install ultralytics opencv-python scipy filterpy

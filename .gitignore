@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pt
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.png
+!demo.png
+.env
+runs/
