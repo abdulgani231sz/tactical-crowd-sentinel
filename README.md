@@ -1,5 +1,6 @@
 ## 📸 Demo
-<img width="1280" height="720" alt="Demo" src="https://github.com/user-attachments/assets/34575dba-6c67-41df-af3d-036f79256f68" />
+<img width="1908" height="936" alt="Demo" src="https://github.com/user-attachments/assets/403da69f-6ba1-4e1d-8582-b53e5816e375" />
+
 # 🛡️ Tactical Crowd Sentinel v2
 
 > **Real-time AI-powered crowd monitoring and threat detection system**  
